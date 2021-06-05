@@ -5,12 +5,6 @@ A simple Streamlit Component to compare images in Streamlit apps using [Knightla
 <img src="https://github.com/robmarkcole/streamlit-image-juxtapose/blob/main/usage.png" width="700">
 </p>
 
-Live example:
-
-<figure class="iframe-container">
-    <iframe frameborder="0" class="juxtapose" width="100%" height="360" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a8a68540-c5b0-11eb-b7bf-95443c729a29"></iframe>
-</figure>
-
 ## Development
 * Create and activate a venv: `python3 -m venv venv` and `source venv/bin/activate`
 * Install requirements: `pip3 install -r requirements.txt`
