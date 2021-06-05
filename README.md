@@ -1,6 +1,10 @@
 # streamlit-image-juxtapose
 A simple Streamlit Component to compare images in Streamlit apps using [Knightlab's JuxtaposeJS](https://juxtapose.knightlab.com/). The images are saved to the streamlit `static` directory then served via stremlit as an image overlay with an adjustable slider.
 
+<p align="center">
+<img src="https://github.com/robmarkcole/streamlit-image-juxtapose/blob/main/usage.png" width="700">
+</p>
+
 ## Development
 * Create and activate a venv: `python3 -m venv venv` and `source venv/bin/activate`
 * Install requirements: `pip3 install -r requirements.txt`
