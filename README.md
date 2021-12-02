@@ -10,6 +10,9 @@ A simple Streamlit Component to compare images in Streamlit apps using [Knightla
 * Install requirements: `pip3 install -r requirements.txt`
 * Run streamlit: `streamlit run app.py`
 
+## Pip installable alternative
+If you wish to `pip install` the functionality provided by this plugin checkout [streamlit-image-comparison](https://github.com/fcakyon/streamlit-image-comparison)
+
 ## References
 - https://juxtapose.knightlab.com/
 - https://github.com/innerdoc/streamlit-timeline
