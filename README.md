@@ -1,5 +1,5 @@
 # streamlit-image-juxtapose
-A simple Streamlit Component to compare images in Streamlit apps using [Knightlab's JuxtaposeJS](https://juxtapose.knightlab.com/). The images are saved to the streamlit `static` directory then served via streamlit as an image overlay with an adjustable slider. Try on [https://share.streamlit.io/robmarkcole/streamlit-image-juxtapose/main/app.py](https://share.streamlit.io/robmarkcole/streamlit-image-juxtapose/main/app.py)
+A simple Streamlit Component to compare images in Streamlit apps using [Knightlab's JuxtaposeJS](https://juxtapose.knightlab.com/). The images are saved to the streamlit `static` directory then served via streamlit as an image overlay with an adjustable slider.
 
 <p align="center">
 <img src="https://github.com/robmarkcole/streamlit-image-juxtapose/blob/main/usage.png" width="700">
